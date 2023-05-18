@@ -1,0 +1,35 @@
+{
+    "polling_booths": [
+        {
+            "polling_agent": {
+                "name": "Agent-10433"
+            },
+            "polling_booth": "PB-21819"
+        },
+        {
+            "polling_agent": {
+                "name": "Agent-60013"
+            },
+            "polling_booth": "PB-38908"
+        },
+        {
+            "polling_agent": {
+                "name": "Agent-38637"
+            },
+            "polling_booth": "PB-94026"
+        },
+        {
+            "polling_agent": {
+                "name": "Agent-54235"
+            },
+            "polling_booth": "PB-11615"
+        },
+        {
+            "polling_agent": {
+                "name": "Agent-59407"
+            },
+            "polling_booth": "PB-81618"
+        }
+    ],
+    "constituency_name": "CNS-49593"
+}
