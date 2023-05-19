@@ -5,3 +5,5 @@ virtualenv env --python=python3
 source env/bin/activate
 # install libraries
 pip install -r requirments.txt
+# To run the dashboard
+streamlit run app/dashboard.py
